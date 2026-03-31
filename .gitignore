@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+env.bak/
+venv.bak/
+.DS_Store
+.idea/
+.vscode/
+
+# Telemetry DB (Do not commit the sandbox local SQLite traces)
+telemetry.db
+data/
